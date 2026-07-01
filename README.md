@@ -118,6 +118,12 @@ pip install -r requirements.txt
 
 ---
 
+## Contributors
+
+- [deeptioram20-del](https://github.com/deeptioram20-del)
+
+---
+
 ## 5. Execution Instructions
 
 Ensure your virtual environment is active before running these commands:
