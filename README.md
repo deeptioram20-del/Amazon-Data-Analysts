@@ -122,6 +122,8 @@ pip install -r requirements.txt
 
 - [deeptioram20-del](https://github.com/deeptioram20-del)
 
+For the full contributor list, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
+
 ---
 
 ## 5. Execution Instructions
